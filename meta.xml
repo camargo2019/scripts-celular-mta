@@ -1,0 +1,90 @@
+<meta>
+	<info author="Gabriel Camargo" name="Celular" description="Celular BRP" type="script"></info>
+
+	<script src="Edit.lua" type="shared" />
+	<script src="S-Celular.lua" type="server" />
+	<script src="C-Celular.lua" type="client" />
+	<script src="S-Loja.lua" type="server" />
+	<script src="C-Loja.lua" type="client" />
+
+
+	<script src="dxAdd/dxEditBox.lua" type="client" />
+
+	<file src="font/font.ttf" cache="false" />
+	<file src="font/impact.ttf" cache="false" />
+
+
+	<file src="img/FundosCell.png" cache="false" />
+	<file src="img/FundosCell2.png" cache="false" />
+	<file src="img/FundosCell3.png" cache="false" />
+	<file src="img/FundosCell4.png" cache="false" />
+	<file src="img/FundosCell5.png" cache="false" />
+	<file src="img/FundosCell6.png" cache="false" />
+	<file src="img/FundosCell7.png" cache="false" />
+	<file src="img/FundosCell8.png" cache="false" />
+	<file src="img/FundosCell9.png" cache="false" />
+	<file src="img/FundosCell10.png" cache="false" />
+	<file src="img/FundosCell11.png" cache="false" />
+	<file src="img/FundosCell12.png" cache="false" />
+	<file src="img/FundosCell13.png" cache="false" />
+	<file src="img/FundosCell14.png" cache="false" />
+	<file src="img/FundosCell15.png" cache="false" />
+	<file src="img/FundosCell16.png" cache="false" />
+	<file src="img/FundosCell17.png" cache="false" />
+	<file src="img/FundosCell18.png" cache="false" />
+	<file src="img/FundosCell19.png" cache="false" />
+	<file src="img/FundosCell20.png" cache="false" />
+	<file src="img/FundosCell21.png" cache="false" />
+	<file src="img/FundosCell22.png" cache="false" />
+	<file src="img/FundosCell23.png" cache="false" />
+	<file src="img/FundosCell24.png" cache="false" />
+	<file src="img/FundosCell25.png" cache="false" />
+	<file src="img/FundosCell26.png" cache="false" />
+	<file src="img/FundosCell27.png" cache="false" />
+	<file src="img/FundosCell28.png" cache="false" />
+	<file src="img/FundosCell29.png" cache="false" />
+	<file src="img/FundosCell30.png" cache="false" />
+
+	<file src="img/TelaAnonimo.png" cache="false" />
+	<file src="img/TelaTelefone.png" cache="false" />
+	<file src="img/TelaMercadoLivre.png" cache="false" />
+	<file src="img/TelaTwitter.png" cache="false" />
+	<file src="img/TelaGps.png" cache="false" />
+	<file src="img/TelaCalculadora.png" cache="false" />
+	<file src="img/LojaDeCelular.png" cache="false" />
+	<file src="img/TelaLigando.png" cache="false" />
+	<file src="img/TelaLigacaoAtendida.png" cache="false" />
+	<file src="img/TelaManutencao.png" cache="false" />
+	<file src="img/TelaItau.png" cache="false" />
+
+	<file src="img/ModeloCelular.png" cache="false" />
+	<file src="img/WhatsApp.png" cache="false" />
+	<file src="img/Twitter.png" cache="false" />
+	<file src="img/Configuracoes.png" cache="false" />
+	<file src="img/Camera.png" cache="false" />
+	<file src="img/MercadoLivre.png" cache="false" />
+	<file src="img/Calculadora.png" cache="false" />
+	<file src="img/Anotacoes.png" cache="false" />
+	<file src="img/Ligar.png" cache="false" />
+	<file src="img/Safari.png" cache="false" />
+	<file src="img/YouTube.png" cache="false" />
+	<file src="img/Discord.png" cache="false" />
+	<file src="img/Anonimo.png" cache="false" />
+	<file src="img/Facebook.png" cache="false" />
+	<file src="img/TikTok.png" cache="false" />
+	<file src="img/PornHub.png" cache="false" />
+	<file src="img/Google.png" cache="false" />
+	<file src="img/Gps.png" cache="false" />
+	<file src="img/Biometria.png" cache="false" />
+	<file src="img/PicPay.png" cache="false" />
+	<file src="img/itau.png" cache="false" />
+	<file src="img/brp.png" cache="false" />
+	<file src="img/Configuracao.png" cache="false" />
+	<file src="img/Voltar.png" cache="false" />
+	<file src="img/SetaCelular.png" cache="false" />
+	<file src="img/TelaPicPay.png" cache="false" />
+
+	<file src="Sound/toque.mp3" cache="false" />
+	<file src="Sound/recebendo.mp3" cache="false" />
+	<file src="Sound/ligando.mp3" cache="false" />
+</meta>
